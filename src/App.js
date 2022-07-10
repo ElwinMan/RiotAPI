@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   const [searchText, setSearchText] = useState("");
   const [playerData, setPlayerData] = useState({});
-  const API_KEY = "RGAPI-fc0f8b37-5983-4a93-8e19-766226d6891b"
+  const API_KEY = "RGAPI-7bc5a2db-ff56-47f6-b735-36ad14cb3439"
 
   function searchForPlayer(event) {
     // Set up API call
